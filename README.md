@@ -81,9 +81,9 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 </table>
 
 ## 💻🖥️ DEMONSTRAÇÃO DAS TELAS
-<img width="1361" height="1803" alt="447336903-5e7631a4-54b0-446b-80dc-50be568c9146" src="https://github.com/user-attachments/assets/39569c63-e3a9-4cf5-9659-22273cd40d14" />
+<img width="1361" height="1803" alt="447336903-5e7631a4-54b0-446b-80dc-50be568c9146" src="https://github.com/user-attachments/assets/39569c63-e3a9-4cf5-9659-22273cd40d14 " />
 
-<img width="1360" height="1722" alt="447337134-af16061e-28b5-412c-b4a7-686ee5e3cd39" src="https://github.com/user-attachments/assets/1bb02bbf-925f-4a95-abca-3690e92169eb" />
+<img width="1360" height="1722" alt="447337134-af16061e-28b5-412c-b4a7-686ee5e3cd39" src="https://github.com/user-attachments/assets/1bb02bbf-925f-4a95-abca-3690e92169eb " />
 
 <img width="1361" height="1745" alt="447337192-e6012e95-04c6-4970-a4bf-9097630c20ab" src="https://github.com/user-attachments/assets/9d32f08d-b2bb-4169-aec1-a5bd706889a9" />
 
@@ -113,20 +113,21 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%20Server-%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
-  <img src="https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip%https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Badge TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Badge Angular"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Badge Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Badge Express.js"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Badge SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Badge GitHub"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Badge Swagger"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Badge Figma"/>
+  <img src="https://img.shields.io/badge/BrModelo-005FAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Badge BrModelo"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Badge Visual Studio Code"/>
 </p>
+
 
 ## 👥 EQUIPE
 
@@ -143,8 +144,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Ariele Peres</td>
       <td>Desenvolvedora Full Stack</td>
       <td>
-        <a [href="https://github.com/arieleperes" target="_blank">
-          <img src="" alt="GitHub Badge">
+         <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Ariele Peres">
         </a>
       </td>
     </tr>
@@ -152,8 +153,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Fernando Ribeiro</td>
       <td>Product Owner</td>
       <td>
-        <a href="https://github.com/FernandoRSantos" target="_blank">
-          <img src="" alt="GitHub Badge">
+       <a href="https://github.com/FernandoRSantos" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Fernando Ribeiro">
         </a>
       </td>
     </tr>
@@ -162,7 +163,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Database Administrator</td>
       <td>
         <a href="https://github.com/Pazetti" target="_blank">
-          <img src="" alt="GitHub Badge">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Guilherme Pazetti">
         </a>
       </td>
     </tr>
@@ -170,8 +171,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Guilherme Piva</td>
       <td>Scrum Master</td>
       <td>
-        <a href="https://github.com/guipiva" target="_blank">
-          <img src="" alt="GitHub Badge">
+        <a href="https://github.com/Mayarasb" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Mayara Barros">
         </a>
       </td>
     </tr>
@@ -179,8 +180,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Mayara Barros</td>
       <td>Product Owner</td>
       <td>
-        <a href="https://github.com/Mayarasb" target="_blank">
-          <img src="" alt="GitHub Badge">
+      <a href="https://github.com/Mayarasb" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Mayara Barros">
         </a>
       </td>
     </tr>
@@ -189,7 +190,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Desenvolvedora Full Stack</td>
       <td>
         <a href="https://github.com/Vanessa-Nobrega" target="_blank">
-          <img src="" alt="GitHub Badge">
+          <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Vanessa Capuano">
         </a>
       </td>
     </tr>
