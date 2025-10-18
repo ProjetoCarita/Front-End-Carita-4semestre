@@ -304,7 +304,7 @@ npm run serve:ssr:Projeto-carita
 ```
 
 ## 📚 **Swagger - Documentação Interativa da API**
-- Acesse: https://raw.githubusercontent.com/Pazetti/Backend-Carita/main/succubus/Backend-Carita.zip 
+- Acesse: 
 - Use o botão **Authorize** para testar rotas protegidas.
 - Todas as rotas principais estão documentadas com exemplos.
 
